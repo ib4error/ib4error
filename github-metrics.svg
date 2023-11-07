@@ -1461,7 +1461,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 12.7m out of 125m users</span>
+                                    <span class="gh">ranked 12m out of 125m users</span>
                                 </div>
                                 <div class="text">Published 4 public repositories</div>
                             </div>
@@ -1534,7 +1534,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.30m out of 43.2m repositories</span>
+                                    <span class="gh">ranked 1.30m out of 37.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 16 stars</div>
                             </div>
@@ -1580,7 +1580,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.20m out of 43.2m repositories</span>
+                                    <span class="gh">ranked 3.16m out of 37.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1663,7 +1663,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2023, 09:03:27 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2023, 10:03:18 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
